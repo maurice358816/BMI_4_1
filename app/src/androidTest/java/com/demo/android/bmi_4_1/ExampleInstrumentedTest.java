@@ -1,4 +1,4 @@
-package com.demo.android.bmi_4_1;
+package com.demo.android.bmi;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
